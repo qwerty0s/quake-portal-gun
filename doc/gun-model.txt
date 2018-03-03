@@ -1,4 +1,4 @@
-Description: Original Portal Gun made for the Portal Gun Mod for Quake created by Robert Siska
+Description: Original Portal Gun made for the Portal Gun Mod for Quake created by Robert “BOby” Siska
 Author: Antonio "toneddu2000" Latronico
 License: Creative Commons Attribution-ShareAlike 3.0 Unported
 Version: 1.0.0
@@ -12,7 +12,4 @@ metal_details.ai for metal details
 License.txt Licensing info
 README.TXT this file
 
-Use it for everything you like it.
-
-maintainer's note: This ZIP is way too big to be included in software package.
-You can contact authors (see doc/AUTHORS), if you're interested in package.
+Use it for everything you like it

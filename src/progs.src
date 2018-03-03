@@ -1,12 +1,11 @@
 ../progs.dat
 
 defs.qc
-custdefs.qc
 subs.qc
 fight.qc
 ai.qc
-combat.qc
 portal.qc
+combat.qc
 items.qc
 weapons.qc
 world.qc
@@ -19,13 +18,17 @@ triggers.qc
 plats.qc
 misc.qc
 
-asstech.qc
 cube.qc
+pellet.qc
+pbuttons.qc
+Pgunpick.qc
+Plegpick.qc
 
 ogre.qc
 demon.qc
 shambler.qc
 knight.qc
+turret.qc
 soldier.qc
 wizard.qc
 dog.qc
@@ -38,3 +41,5 @@ fish.qc			// registered
 shalrath.qc		// registered
 enforcer.qc		// registered
 oldone.qc		// registered
+
+extraimp.qc		//NOT NEEDED

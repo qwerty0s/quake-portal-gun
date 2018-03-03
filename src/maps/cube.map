@@ -3,7 +3,7 @@
 "classname" "worldspawn"
 "sounds" "1"
 "mapversion" "220"
-"wad" "gfx/base.wad"
+"wad" "\hry\quake\tools\worldcraft3.3\textures\id_base.hlwad;\hry\quake\tools\worldcraft3.3\textures\solids.hlwad"
 {
 ( 0 0 32 ) ( 0 32 32 ) ( 32 32 32 ) +3_LAVA0 [ 1 0 0 -4 ] [ 0 -1 0 4 ] 0 1 1 
 ( 0 32 0 ) ( 0 0 0 ) ( 32 0 0 ) +0_LAVA0 [ 1 0 0 -4 ] [ 0 -1 0 4 ] 0 1 1 

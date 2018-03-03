@@ -3,8 +3,7 @@
 "classname" "worldspawn"
 "sounds" "1"
 "mapversion" "220"
-"mapversion" "220"
-"wad" "gfx/base.wad;portal.wad"
+"wad" "\hry\quake\tools\worldcraft3.3\textures\id_base.hlwad;\hry\quake\tools\worldcraft3.3\textures\solids.hlwad"
 {
 ( 0 -1280 1280 ) ( 0 640 1280 ) ( 640 640 1280 ) ADOOR03_3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
 ( 0 640 1248 ) ( 0 640 1280 ) ( 0 -1280 1280 ) ADOOR03_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
@@ -127,8 +126,4 @@
 "light" "2000"
 "wait" "1"
 "origin" "324 316 284"
-}
-{
-"classname" "ass_cube"
-"origin" "329 -127 -448"
 }
