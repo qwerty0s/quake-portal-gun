@@ -1,13 +1,24 @@
 # /
-/config.cfg
+/CONFIG.CFG
+/qconsole.log
 /progs.lno
+/config - Copy.cfg
+/Default.cfg
+
+# /maps/
+
+/maps/*.bsp
 
 # /src/
-/src/fteqcc.log
-/src/tags
+/src/error.log
+/src/qccx.exe
 
 # /src/maps/
 /src/maps/*.pts
 /src/maps/*.bsp
 /src/maps/*.h1
 /src/maps/*.h2
+/src/maps/*.zip
+
+# /glquake
+/glquake/*.*
